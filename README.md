@@ -18,14 +18,16 @@ An interactive **Power BI dashboard** built to track **financial performance, pr
  
 
 ### Gross Profit Overview
-![Gross Profit Overview](images/<img width="888" height="496" alt="grossprofit_overview" src="https://github.com/user-attachments/assets/ea6e5b5e-dc80-448c-9eda-d17261e4ab37" />
+![Gross Profit Overview](<img width="888" height="496" alt="grossprofit_overview" src="https://github.com/user-attachments/assets/ea6e5b5e-dc80-448c-9eda-d17261e4ab37" />)
 
 
 ### Quantity Overview
-![Quantity Overview](images/waterfall_chart.png)
+![Quantity Overview](<img width="889" height="495" alt="quantity_overview" src="https://github.com/user-attachments/assets/a488a959-4b6e-41ce-871c-8b751c3a4472" />)
+
 
 ### Sales Overview
-![Sales Overview](images/treemap_view.png)
+![Sales Overview](<img width="892" height="495" alt="sales_overview" src="https://github.com/user-attachments/assets/5f19afa0-b810-4a20-8f39-e76d9c2b38a9" />)
+
 
 ---
 
