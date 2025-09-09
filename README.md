@@ -1,4 +1,4 @@
-# Power BI Performance Dashboard
+# Power BI Performance Report Dashboard
 
 ## Overview
 An interactive **Power BI dashboard** built to track **financial performance, profitability, and year-over-year trends**. The report uses **custom DAX measures** and interactive features to provide clear business insights.
