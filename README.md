@@ -18,7 +18,7 @@ An interactive **Power BI dashboard** built to track **financial performance, pr
  
 
 ### Gross Profit Overview
-![Gross Profit Overview](<img width="888" height="496" alt="grossprofit_overview" src="https://github.com/user-attachments/assets/ea6e5b5e-dc80-448c-9eda-d17261e4ab37" />)
+![Gross Profit Overview](images/<img width="888" height="496" alt="grossprofit_overview" src="https://github.com/user-attachments/assets/ea6e5b5e-dc80-448c-9eda-d17261e4ab37" />)
 
 
 ### Quantity Overview
